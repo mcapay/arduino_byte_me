@@ -1,9 +1,6 @@
 #include <IRremote.h> // Knižnica pre IR
 #include <LiquidCrystal_I2C.h>
 
-#include <IRremote.h> // Knižnica pre IR
-#include <LiquidCrystal_I2C.h>
-
 /*
  * --- Nastavenie základných komponentov a premenných ---
  *
